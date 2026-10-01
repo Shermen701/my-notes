@@ -10,7 +10,7 @@ $$\sigma(R) = \sqrt{\sum_{i=1}^n (R_i - E(R))^2 \times P(R_i)}$$
 
 ## Risk
 Total Risk = Systematic Risk + Unsystematic Risk
-Total Risk = market Risk + Idiosyncratic Risk
+Total Risk = market Risk + asset-specific Risk
 
 
 ### Systematic Risk: Beta

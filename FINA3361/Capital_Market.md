@@ -1,8 +1,8 @@
 ## Return on Investment
 
 ### Dollar and Percentage Rate of Return
-$$\text{Dollar Return} = \text{End Value}-\text{Start Value}$$
-$$\text{Percentage Rate of   Return} = \frac{\text{Dollar Return}}{\text{Start Value}} \times 100\%$$
+$$\text{Dollar Return} = \text{Ending Price} - \text{Beginning Price} + \text{Cash Distributions}$$
+$$\text{Percentage Rate of   Return} = \frac{\text{Dollar Return}}{\text{Beginning Price}} \times 100\%$$
 
 
 
